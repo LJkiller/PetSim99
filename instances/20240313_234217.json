@@ -1,6 +1,6 @@
 {
     "FileInfo": {
-        "FileCreationTimestampUTC": "2024-03-13 21:40:34",
+        "FileCreationTimeUTC": "2024-03-13 23:42:17",
         "Navigation": {
             "General": "To navigate in this file you can press [CTRL+F] and then type the name of the section you desire.",
             "KeyWords": {
@@ -12,7 +12,9 @@
                     "DecemberActiveHugePets": "DecemberActiveHugePets",
                     "IndexBattle": "IndexBattle",
                     "AchBattle": "AchBattle",
-                    "RaidBattle": "RaidBattle"
+                    "RaidBattle": "RaidBattle",
+                    "AllAwardedUsers": "AllAwardedUsers",
+                    "CommonParticipants": "CommonParticipants"
                 }
             }
         }
@@ -861,9 +863,6 @@
                         "TotalPoints": 408520,
                         "Contributions": [
                             {
-                                "TotalPoints": 408520
-                            },
-                            {
                                 "UserLink": "https://www.roblox.com/users/112607291/profile",
                                 "Points": 94350
                             },
@@ -984,9 +983,6 @@
                         "TotalPoints": 21,
                         "Contributions": [
                             {
-                                "TotalPoints": 21
-                            },
-                            {
                                 "UserLink": "https://www.roblox.com/users/312722556/profile",
                                 "Points": 7
                             },
@@ -1026,9 +1022,6 @@
                         "AwardedUsers": [],
                         "TotalPoints": 39676,
                         "Contributions": [
-                            {
-                                "TotalPoints": 39676
-                            },
                             {
                                 "UserLink": "https://www.roblox.com/users/754204540/profile",
                                 "Points": 2144
@@ -1129,9 +1122,6 @@
                         "AwardedUsers": [],
                         "TotalPoints": 3638,
                         "Contributions": [
-                            {
-                                "TotalPoints": 3638
-                            },
                             {
                                 "UserLink": "https://www.roblox.com/users/2670676461/profile",
                                 "Points": 64
@@ -1412,9 +1402,6 @@
                         "AwardedUsers": [],
                         "TotalPoints": 48515,
                         "Contributions": [
-                            {
-                                "TotalPoints": 48515
-                            },
                             {
                                 "UserLink": "https://www.roblox.com/users/3467544929/profile",
                                 "Points": 1847
@@ -1718,6 +1705,275 @@
                         ]
                     }
                 }
+            },
+            {
+                "AllAwardedUsers": [],
+                "CommonParticipants": [
+                    {
+                        "UserLink": "https://www.roblox.com/users/3467544929/profile",
+                        "Participations": 5
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3493083549/profile",
+                        "Participations": 5
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/47316640/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/263971981/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1174987199/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1222715146/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/401139363/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/89801902/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/2670676461/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/112607291/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/5296712384/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1645933197/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/374660619/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1427163086/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/312722556/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3999168482/profile",
+                        "Participations": 4
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/62204297/profile",
+                        "Participations": 3
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/754204540/profile",
+                        "Participations": 3
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/120440306/profile",
+                        "Participations": 3
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/269850047/profile",
+                        "Participations": 3
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/2925788376/profile",
+                        "Participations": 3
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/313662474/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/658617771/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/884769148/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3097905964/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/191814004/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/4565281210/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/2052599873/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/454137635/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1728967105/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/4338411269/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/4807882577/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/646309560/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1009734159/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/381544031/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/2321950298/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/106762421/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/392153783/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/726334997/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/632293591/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3750649615/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/288529436/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3398977821/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/707123432/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/993522790/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1919881225/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/5234109812/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/199749303/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/876087163/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/466646554/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1114288501/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/220511594/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/190792835/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/134543763/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/2353480118/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/2397588804/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/534265117/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/370931324/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/487189111/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3192591524/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/963438446/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1160736242/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3805936559/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3046460750/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/3963104589/profile",
+                        "Participations": 2
+                    },
+                    {
+                        "UserLink": "https://www.roblox.com/users/1894050380/profile",
+                        "Participations": 2
+                    }
+                ]
             }
         ]
     }

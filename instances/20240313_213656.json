@@ -1,5 +1,22 @@
 {
-    "TimeUTC": "2024-03-13 19:30:43",
+    "FileInfo": {
+        "TimeUTC": "2024-03-13 21:36:56",
+        "Navigation": {
+            "General": "To navigate in this file you can press [CTRL+F] and then type the name of the section you desire.",
+            "KeyWords": {
+                "ClanInfo": "ClanInfo",
+                "DiamondContributers": "DiamondContributers",
+                "Members": "Members",
+                "ClanWars": {
+                    "Christmas2023": "Christmas2023",
+                    "DecemberActiveHugePets": "DecemberActiveHugePets",
+                    "IndexBattle": "IndexBattle",
+                    "AchBattle": "AchBattle",
+                    "RaidBattle": "RaidBattle"
+                }
+            }
+        }
+    },
     "Data": {
         "ClanInfo": {
             "Name": "C4",
@@ -834,10 +851,10 @@
                 "JoinTime": "Sun, 10 Mar 2024 20:34:51 GMT"
             }
         ],
-        "BattleParticipation": [
+        "ClanWars": [
             {
                 "Christmas2023": {
-                    "battleParticipation": {
+                    "BattleParticipation": {
                         "BattleID": "Christmas2023",
                         "AwardsProcessed": false,
                         "AwardedUsers": [],
@@ -960,7 +977,7 @@
             },
             {
                 "DecemberActiveHugePets": {
-                    "battleParticipation": {
+                    "BattleParticipation": {
                         "BattleID": "DecemberActiveHugePets",
                         "AwardsProcessed": false,
                         "AwardedUsers": [],
@@ -1003,7 +1020,7 @@
             },
             {
                 "IndexBattle": {
-                    "battleParticipation": {
+                    "BattleParticipation": {
                         "BattleID": "IndexBattle",
                         "AwardsProcessed": false,
                         "AwardedUsers": [],
@@ -1106,7 +1123,7 @@
             },
             {
                 "AchBattle": {
-                    "battleParticipation": {
+                    "BattleParticipation": {
                         "BattleID": "AchBattle",
                         "AwardsProcessed": false,
                         "AwardedUsers": [],
@@ -1389,7 +1406,7 @@
             },
             {
                 "RaidBattle": {
-                    "battleParticipation": {
+                    "BattleParticipation": {
                         "BattleID": "RaidBattle",
                         "AwardsProcessed": false,
                         "AwardedUsers": [],

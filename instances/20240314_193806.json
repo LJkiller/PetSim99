@@ -1,6 +1,6 @@
 {
     "FileInfo": {
-        "FileCreationTimeUTC": "2024-03-14 07:44:31",
+        "FileCreationTimeUTC": "2024-03-14 19:38:06",
         "Navigation": {
             "General": "To navigate in this file you can press [CTRL+F] and then type the name of the section you desire.",
             "KeyWords": {
@@ -856,854 +856,844 @@
         "ClanWars": [
             {
                 "Christmas2023": {
-                    "BattleParticipation": {
-                        "BattleID": "Christmas2023",
-                        "AwardsProcessed": false,
-                        "AwardedUsers": [],
-                        "TotalPoints": 408520,
-                        "Contributions": [
-                            {
-                                "UserLink": "https://www.roblox.com/users/112607291/profile",
-                                "Points": 94350
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4418762873/profile",
-                                "Points": 41520
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/47316640/profile",
-                                "Points": 36024
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/33857531/profile",
-                                "Points": 35044
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1174987199/profile",
-                                "Points": 26351
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1222715146/profile",
-                                "Points": 22959
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5296712384/profile",
-                                "Points": 22203
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2670676461/profile",
-                                "Points": 19558
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/89801902/profile",
-                                "Points": 13220
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/263971981/profile",
-                                "Points": 10237
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2063281875/profile",
-                                "Points": 8886
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/401139363/profile",
-                                "Points": 5989
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3137748939/profile",
-                                "Points": 4529
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3467544929/profile",
-                                "Points": 2917
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3493083549/profile",
-                                "Points": 2550
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/721174120/profile",
-                                "Points": 1948
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1050493292/profile",
-                                "Points": 1732
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/531029524/profile",
-                                "Points": 1700
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1645933197/profile",
-                                "Points": 1700
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/272427695/profile",
-                                "Points": 1700
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2387429949/profile",
-                                "Points": 884
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2681557580/profile",
-                                "Points": 882
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/111840377/profile",
-                                "Points": 850
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/152556552/profile",
-                                "Points": 451
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/963955013/profile",
-                                "Points": 204
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4218985803/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/141045134/profile",
-                                "Points": 1
-                            }
-                        ]
-                    }
+                    "BattleID": "Christmas2023",
+                    "AwardsProcessed": false,
+                    "AwardedUsers": [],
+                    "TotalPoints": 408520,
+                    "Contributions": [
+                        {
+                            "UserLink": "https://www.roblox.com/users/112607291/profile",
+                            "Points": 94350
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4418762873/profile",
+                            "Points": 41520
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/47316640/profile",
+                            "Points": 36024
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/33857531/profile",
+                            "Points": 35044
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1174987199/profile",
+                            "Points": 26351
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1222715146/profile",
+                            "Points": 22959
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5296712384/profile",
+                            "Points": 22203
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2670676461/profile",
+                            "Points": 19558
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/89801902/profile",
+                            "Points": 13220
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/263971981/profile",
+                            "Points": 10237
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2063281875/profile",
+                            "Points": 8886
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/401139363/profile",
+                            "Points": 5989
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3137748939/profile",
+                            "Points": 4529
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3467544929/profile",
+                            "Points": 2917
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3493083549/profile",
+                            "Points": 2550
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/721174120/profile",
+                            "Points": 1948
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1050493292/profile",
+                            "Points": 1732
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/531029524/profile",
+                            "Points": 1700
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1645933197/profile",
+                            "Points": 1700
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/272427695/profile",
+                            "Points": 1700
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2387429949/profile",
+                            "Points": 884
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2681557580/profile",
+                            "Points": 882
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/111840377/profile",
+                            "Points": 850
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/152556552/profile",
+                            "Points": 451
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/963955013/profile",
+                            "Points": 204
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4218985803/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/141045134/profile",
+                            "Points": 1
+                        }
+                    ]
                 }
             },
             {
                 "DecemberActiveHugePets": {
-                    "BattleParticipation": {
-                        "BattleID": "DecemberActiveHugePets",
-                        "AwardsProcessed": false,
-                        "AwardedUsers": [],
-                        "TotalPoints": 21,
-                        "Contributions": [
-                            {
-                                "UserLink": "https://www.roblox.com/users/312722556/profile",
-                                "Points": 7
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4418762873/profile",
-                                "Points": 4
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1427163086/profile",
-                                "Points": 3
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/374660619/profile",
-                                "Points": 2
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3467544929/profile",
-                                "Points": 2
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3493083549/profile",
-                                "Points": 1
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3999168482/profile",
-                                "Points": 1
-                            }
-                        ]
-                    }
+                    "BattleID": "DecemberActiveHugePets",
+                    "AwardsProcessed": false,
+                    "AwardedUsers": [],
+                    "TotalPoints": 21,
+                    "Contributions": [
+                        {
+                            "UserLink": "https://www.roblox.com/users/312722556/profile",
+                            "Points": 7
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4418762873/profile",
+                            "Points": 4
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1427163086/profile",
+                            "Points": 3
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/374660619/profile",
+                            "Points": 2
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3467544929/profile",
+                            "Points": 2
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3493083549/profile",
+                            "Points": 1
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3999168482/profile",
+                            "Points": 1
+                        }
+                    ]
                 }
             },
             {
                 "IndexBattle": {
-                    "BattleParticipation": {
-                        "BattleID": "IndexBattle",
-                        "AwardsProcessed": false,
-                        "AwardedUsers": [],
-                        "TotalPoints": 39676,
-                        "Contributions": [
-                            {
-                                "UserLink": "https://www.roblox.com/users/754204540/profile",
-                                "Points": 2144
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1222715146/profile",
-                                "Points": 2023
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1427163086/profile",
-                                "Points": 2016
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/33857531/profile",
-                                "Points": 2014
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/47316640/profile",
-                                "Points": 2002
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/312722556/profile",
-                                "Points": 1970
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3493083549/profile",
-                                "Points": 1635
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/62204297/profile",
-                                "Points": 1609
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2925788376/profile",
-                                "Points": 1517
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3467544929/profile",
-                                "Points": 1491
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3999168482/profile",
-                                "Points": 1488
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/374660619/profile",
-                                "Points": 1347
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/120440306/profile",
-                                "Points": 1336
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1174987199/profile",
-                                "Points": 1274
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5296712384/profile",
-                                "Points": 1247
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/269850047/profile",
-                                "Points": 1240
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1645933197/profile",
-                                "Points": 1221
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2670676461/profile",
-                                "Points": 1208
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/263971981/profile",
-                                "Points": 1208
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/89801902/profile",
-                                "Points": 1205
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/401139363/profile",
-                                "Points": 1203
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/112607291/profile",
-                                "Points": 1201
-                            }
-                        ]
-                    }
+                    "BattleID": "IndexBattle",
+                    "AwardsProcessed": false,
+                    "AwardedUsers": [],
+                    "TotalPoints": 39676,
+                    "Contributions": [
+                        {
+                            "UserLink": "https://www.roblox.com/users/754204540/profile",
+                            "Points": 2144
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1222715146/profile",
+                            "Points": 2023
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1427163086/profile",
+                            "Points": 2016
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/33857531/profile",
+                            "Points": 2014
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/47316640/profile",
+                            "Points": 2002
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/312722556/profile",
+                            "Points": 1970
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3493083549/profile",
+                            "Points": 1635
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/62204297/profile",
+                            "Points": 1609
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2925788376/profile",
+                            "Points": 1517
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3467544929/profile",
+                            "Points": 1491
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3999168482/profile",
+                            "Points": 1488
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/374660619/profile",
+                            "Points": 1347
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/120440306/profile",
+                            "Points": 1336
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1174987199/profile",
+                            "Points": 1274
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5296712384/profile",
+                            "Points": 1247
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/269850047/profile",
+                            "Points": 1240
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1645933197/profile",
+                            "Points": 1221
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2670676461/profile",
+                            "Points": 1208
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/263971981/profile",
+                            "Points": 1208
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/89801902/profile",
+                            "Points": 1205
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/401139363/profile",
+                            "Points": 1203
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/112607291/profile",
+                            "Points": 1201
+                        }
+                    ]
                 }
             },
             {
                 "AchBattle": {
-                    "BattleParticipation": {
-                        "BattleID": "AchBattle",
-                        "AwardsProcessed": false,
-                        "AwardedUsers": [],
-                        "TotalPoints": 3638,
-                        "Contributions": [
-                            {
-                                "UserLink": "https://www.roblox.com/users/2670676461/profile",
-                                "Points": 64
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2925788376/profile",
-                                "Points": 63
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/754204540/profile",
-                                "Points": 62
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4807882577/profile",
-                                "Points": 62
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/312722556/profile",
-                                "Points": 61
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/191814004/profile",
-                                "Points": 61
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3963104589/profile",
-                                "Points": 61
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1427163086/profile",
-                                "Points": 59
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3467544929/profile",
-                                "Points": 59
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/632293591/profile",
-                                "Points": 59
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/33857531/profile",
-                                "Points": 58
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1222715146/profile",
-                                "Points": 57
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5296712384/profile",
-                                "Points": 55
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3493083549/profile",
-                                "Points": 54
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/112607291/profile",
-                                "Points": 54
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/876087163/profile",
-                                "Points": 54
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/220511594/profile",
-                                "Points": 53
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3999168482/profile",
-                                "Points": 51
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1645933197/profile",
-                                "Points": 50
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1174987199/profile",
-                                "Points": 50
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/374660619/profile",
-                                "Points": 50
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/963438446/profile",
-                                "Points": 50
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4338411269/profile",
-                                "Points": 49
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/381544031/profile",
-                                "Points": 49
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/190792835/profile",
-                                "Points": 49
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/134543763/profile",
-                                "Points": 49
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2353480118/profile",
-                                "Points": 49
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4565281210/profile",
-                                "Points": 48
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/106762421/profile",
-                                "Points": 48
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/47316640/profile",
-                                "Points": 47
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/89801902/profile",
-                                "Points": 47
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/62204297/profile",
-                                "Points": 47
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1009734159/profile",
-                                "Points": 47
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/707123432/profile",
-                                "Points": 47
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3046460750/profile",
-                                "Points": 47
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/269850047/profile",
-                                "Points": 46
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/120440306/profile",
-                                "Points": 46
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/288529436/profile",
-                                "Points": 46
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1114288501/profile",
-                                "Points": 46
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3192591524/profile",
-                                "Points": 46
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3805936559/profile",
-                                "Points": 46
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/263971981/profile",
-                                "Points": 45
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/658617771/profile",
-                                "Points": 45
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/487189111/profile",
-                                "Points": 45
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3097905964/profile",
-                                "Points": 44
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2052599873/profile",
-                                "Points": 44
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3398977821/profile",
-                                "Points": 44
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5234109812/profile",
-                                "Points": 44
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/454137635/profile",
-                                "Points": 43
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/646309560/profile",
-                                "Points": 43
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/199749303/profile",
-                                "Points": 43
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/466646554/profile",
-                                "Points": 43
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2397588804/profile",
-                                "Points": 43
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/534265117/profile",
-                                "Points": 43
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/392153783/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3750649615/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1919881225/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/370931324/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1160736242/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1894050380/profile",
-                                "Points": 42
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/884769148/profile",
-                                "Points": 41
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1728967105/profile",
-                                "Points": 41
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/726334997/profile",
-                                "Points": 41
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/993522790/profile",
-                                "Points": 41
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/401139363/profile",
-                                "Points": 40
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/313662474/profile",
-                                "Points": 40
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2321950298/profile",
-                                "Points": 40
-                            }
-                        ]
-                    }
+                    "BattleID": "AchBattle",
+                    "AwardsProcessed": false,
+                    "AwardedUsers": [],
+                    "TotalPoints": 3638,
+                    "Contributions": [
+                        {
+                            "UserLink": "https://www.roblox.com/users/2670676461/profile",
+                            "Points": 64
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2925788376/profile",
+                            "Points": 63
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/754204540/profile",
+                            "Points": 62
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4807882577/profile",
+                            "Points": 62
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/312722556/profile",
+                            "Points": 61
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/191814004/profile",
+                            "Points": 61
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3963104589/profile",
+                            "Points": 61
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1427163086/profile",
+                            "Points": 59
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3467544929/profile",
+                            "Points": 59
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/632293591/profile",
+                            "Points": 59
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/33857531/profile",
+                            "Points": 58
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1222715146/profile",
+                            "Points": 57
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5296712384/profile",
+                            "Points": 55
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3493083549/profile",
+                            "Points": 54
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/112607291/profile",
+                            "Points": 54
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/876087163/profile",
+                            "Points": 54
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/220511594/profile",
+                            "Points": 53
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3999168482/profile",
+                            "Points": 51
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1645933197/profile",
+                            "Points": 50
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1174987199/profile",
+                            "Points": 50
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/374660619/profile",
+                            "Points": 50
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/963438446/profile",
+                            "Points": 50
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4338411269/profile",
+                            "Points": 49
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/381544031/profile",
+                            "Points": 49
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/190792835/profile",
+                            "Points": 49
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/134543763/profile",
+                            "Points": 49
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2353480118/profile",
+                            "Points": 49
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4565281210/profile",
+                            "Points": 48
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/106762421/profile",
+                            "Points": 48
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/47316640/profile",
+                            "Points": 47
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/89801902/profile",
+                            "Points": 47
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/62204297/profile",
+                            "Points": 47
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1009734159/profile",
+                            "Points": 47
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/707123432/profile",
+                            "Points": 47
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3046460750/profile",
+                            "Points": 47
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/269850047/profile",
+                            "Points": 46
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/120440306/profile",
+                            "Points": 46
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/288529436/profile",
+                            "Points": 46
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1114288501/profile",
+                            "Points": 46
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3192591524/profile",
+                            "Points": 46
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3805936559/profile",
+                            "Points": 46
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/263971981/profile",
+                            "Points": 45
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/658617771/profile",
+                            "Points": 45
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/487189111/profile",
+                            "Points": 45
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3097905964/profile",
+                            "Points": 44
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2052599873/profile",
+                            "Points": 44
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3398977821/profile",
+                            "Points": 44
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5234109812/profile",
+                            "Points": 44
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/454137635/profile",
+                            "Points": 43
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/646309560/profile",
+                            "Points": 43
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/199749303/profile",
+                            "Points": 43
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/466646554/profile",
+                            "Points": 43
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2397588804/profile",
+                            "Points": 43
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/534265117/profile",
+                            "Points": 43
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/392153783/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3750649615/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1919881225/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/370931324/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1160736242/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1894050380/profile",
+                            "Points": 42
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/884769148/profile",
+                            "Points": 41
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1728967105/profile",
+                            "Points": 41
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/726334997/profile",
+                            "Points": 41
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/993522790/profile",
+                            "Points": 41
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/401139363/profile",
+                            "Points": 40
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/313662474/profile",
+                            "Points": 40
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2321950298/profile",
+                            "Points": 40
+                        }
+                    ]
                 }
             },
             {
                 "RaidBattle": {
-                    "BattleParticipation": {
-                        "BattleID": "RaidBattle",
-                        "AwardsProcessed": false,
-                        "AwardedUsers": [],
-                        "TotalPoints": 49481,
-                        "Contributions": [
-                            {
-                                "UserLink": "https://www.roblox.com/users/3467544929/profile",
-                                "Points": 1918
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3493083549/profile",
-                                "Points": 1672
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1222715146/profile",
-                                "Points": 1626
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2925788376/profile",
-                                "Points": 1518
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/112607291/profile",
-                                "Points": 1496
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/288529436/profile",
-                                "Points": 1431
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/33857531/profile",
-                                "Points": 1383
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3963104589/profile",
-                                "Points": 1362
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4807882577/profile",
-                                "Points": 1310
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1174987199/profile",
-                                "Points": 1263
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5296712384/profile",
-                                "Points": 1253
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4565281210/profile",
-                                "Points": 1235
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/370931324/profile",
-                                "Points": 1206
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3805936559/profile",
-                                "Points": 1039
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2670676461/profile",
-                                "Points": 1025
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/312722556/profile",
-                                "Points": 1024
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2353480118/profile",
-                                "Points": 979
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/191814004/profile",
-                                "Points": 866
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/220511594/profile",
-                                "Points": 861
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/190792835/profile",
-                                "Points": 850
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/876087163/profile",
-                                "Points": 814
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/47316640/profile",
-                                "Points": 798
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/632293591/profile",
-                                "Points": 728
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3097905964/profile",
-                                "Points": 716
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/726334997/profile",
-                                "Points": 714
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/89801902/profile",
-                                "Points": 707
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5234109812/profile",
-                                "Points": 704
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1009734159/profile",
-                                "Points": 704
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/963438446/profile",
-                                "Points": 684
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/466646554/profile",
-                                "Points": 655
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/463660886/profile",
-                                "Points": 654
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1427163086/profile",
-                                "Points": 652
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3999168482/profile",
-                                "Points": 646
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/454137635/profile",
-                                "Points": 636
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/754204540/profile",
-                                "Points": 613
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/62204297/profile",
-                                "Points": 585
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2397588804/profile",
-                                "Points": 583
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/5149375806/profile",
-                                "Points": 574
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1919881225/profile",
-                                "Points": 545
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/269850047/profile",
-                                "Points": 541
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/4338411269/profile",
-                                "Points": 524
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2739196314/profile",
-                                "Points": 521
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/134543763/profile",
-                                "Points": 482
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/707123432/profile",
-                                "Points": 459
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/263971981/profile",
-                                "Points": 457
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/534265117/profile",
-                                "Points": 452
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1114288501/profile",
-                                "Points": 450
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1160736242/profile",
-                                "Points": 422
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/106762421/profile",
-                                "Points": 411
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1728967105/profile",
-                                "Points": 397
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/199749303/profile",
-                                "Points": 374
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/658617771/profile",
-                                "Points": 352
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/313662474/profile",
-                                "Points": 342
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/993522790/profile",
-                                "Points": 329
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/381544031/profile",
-                                "Points": 319
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/884769148/profile",
-                                "Points": 308
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/646309560/profile",
-                                "Points": 307
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3046460750/profile",
-                                "Points": 302
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1894050380/profile",
-                                "Points": 297
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/1645933197/profile",
-                                "Points": 272
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/487189111/profile",
-                                "Points": 256
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2052599873/profile",
-                                "Points": 253
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/588043657/profile",
-                                "Points": 239
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/374660619/profile",
-                                "Points": 237
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3750649615/profile",
-                                "Points": 232
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2321950298/profile",
-                                "Points": 225
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3192591524/profile",
-                                "Points": 217
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/159606232/profile",
-                                "Points": 216
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/3398977821/profile",
-                                "Points": 213
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/392153783/profile",
-                                "Points": 207
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2670232789/profile",
-                                "Points": 205
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/120440306/profile",
-                                "Points": 190
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/401139363/profile",
-                                "Points": 185
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/2030051926/profile",
-                                "Points": 146
-                            },
-                            {
-                                "UserLink": "https://www.roblox.com/users/244859591/profile",
-                                "Points": 113
-                            }
-                        ]
-                    }
+                    "BattleID": "RaidBattle",
+                    "AwardsProcessed": false,
+                    "AwardedUsers": [],
+                    "TotalPoints": 50881,
+                    "Contributions": [
+                        {
+                            "UserLink": "https://www.roblox.com/users/3467544929/profile",
+                            "Points": 1986
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3493083549/profile",
+                            "Points": 1732
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1222715146/profile",
+                            "Points": 1687
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2925788376/profile",
+                            "Points": 1569
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/112607291/profile",
+                            "Points": 1496
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/288529436/profile",
+                            "Points": 1483
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/33857531/profile",
+                            "Points": 1422
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3963104589/profile",
+                            "Points": 1399
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4807882577/profile",
+                            "Points": 1310
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5296712384/profile",
+                            "Points": 1310
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1174987199/profile",
+                            "Points": 1307
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/370931324/profile",
+                            "Points": 1250
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4565281210/profile",
+                            "Points": 1235
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3805936559/profile",
+                            "Points": 1086
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/312722556/profile",
+                            "Points": 1078
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2670676461/profile",
+                            "Points": 1073
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2353480118/profile",
+                            "Points": 979
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/190792835/profile",
+                            "Points": 897
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/876087163/profile",
+                            "Points": 867
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/191814004/profile",
+                            "Points": 866
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/220511594/profile",
+                            "Points": 861
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/47316640/profile",
+                            "Points": 832
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1009734159/profile",
+                            "Points": 762
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/963438446/profile",
+                            "Points": 730
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/632293591/profile",
+                            "Points": 728
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3097905964/profile",
+                            "Points": 716
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/726334997/profile",
+                            "Points": 714
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/89801902/profile",
+                            "Points": 707
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/463660886/profile",
+                            "Points": 707
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1427163086/profile",
+                            "Points": 706
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5234109812/profile",
+                            "Points": 704
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/466646554/profile",
+                            "Points": 685
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/454137635/profile",
+                            "Points": 675
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3999168482/profile",
+                            "Points": 646
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2397588804/profile",
+                            "Points": 632
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/754204540/profile",
+                            "Points": 613
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/62204297/profile",
+                            "Points": 585
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2739196314/profile",
+                            "Points": 583
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/5149375806/profile",
+                            "Points": 574
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1919881225/profile",
+                            "Points": 545
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/269850047/profile",
+                            "Points": 541
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/4338411269/profile",
+                            "Points": 524
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/263971981/profile",
+                            "Points": 497
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/134543763/profile",
+                            "Points": 482
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/707123432/profile",
+                            "Points": 459
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/534265117/profile",
+                            "Points": 452
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1114288501/profile",
+                            "Points": 450
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1160736242/profile",
+                            "Points": 422
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1728967105/profile",
+                            "Points": 422
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/106762421/profile",
+                            "Points": 411
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/313662474/profile",
+                            "Points": 393
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/199749303/profile",
+                            "Points": 374
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/658617771/profile",
+                            "Points": 352
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/993522790/profile",
+                            "Points": 329
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/381544031/profile",
+                            "Points": 319
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/884769148/profile",
+                            "Points": 308
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/646309560/profile",
+                            "Points": 307
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3046460750/profile",
+                            "Points": 302
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1894050380/profile",
+                            "Points": 297
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/159606232/profile",
+                            "Points": 274
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/1645933197/profile",
+                            "Points": 272
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2321950298/profile",
+                            "Points": 264
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/487189111/profile",
+                            "Points": 256
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2052599873/profile",
+                            "Points": 253
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/588043657/profile",
+                            "Points": 239
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/374660619/profile",
+                            "Points": 237
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3750649615/profile",
+                            "Points": 232
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3192591524/profile",
+                            "Points": 217
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/3398977821/profile",
+                            "Points": 213
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/392153783/profile",
+                            "Points": 207
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2670232789/profile",
+                            "Points": 205
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/120440306/profile",
+                            "Points": 190
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/401139363/profile",
+                            "Points": 185
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/2030051926/profile",
+                            "Points": 146
+                        },
+                        {
+                            "UserLink": "https://www.roblox.com/users/244859591/profile",
+                            "Points": 113
+                        }
+                    ]
                 }
             },
             {

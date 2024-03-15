@@ -18,6 +18,7 @@ The JSON files are then reconstructed with appropriate datanames, names and addi
 - Save clan information into JSON files.
 - Reconstruct clan information based on data from the PetSim99 API.
 - Additional clan information:
+  - DiamondPosition
   - ScorePosition
   - AllAwardedUsers
   - CommonParticipants

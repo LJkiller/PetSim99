@@ -1,0 +1,1750 @@
+{
+    "status": "ok",
+    "data": {
+        "Created": 1701739383,
+        "Owner": 33857531,
+        "Name": "C4",
+        "Icon": "rbxassetid://14968206706",
+        "Desc": "A clan full of explosive personality",
+        "MemberCapacity": 75,
+        "OfficerCapacity": 3,
+        "GuildLevel": 5,
+        "Members": [
+            {
+                "UserID": 112607291,
+                "PermissionLevel": 90,
+                "JoinTime": 1701815491
+            },
+            {
+                "UserID": 263971981,
+                "PermissionLevel": 50,
+                "JoinTime": 1701866792
+            },
+            {
+                "UserID": 3467544929,
+                "PermissionLevel": 50,
+                "JoinTime": 1701875199
+            },
+            {
+                "UserID": 47316640,
+                "PermissionLevel": 90,
+                "JoinTime": 1701892705
+            },
+            {
+                "UserID": 1645933197,
+                "PermissionLevel": 50,
+                "JoinTime": 1701893357
+            },
+            {
+                "UserID": 401139363,
+                "PermissionLevel": 50,
+                "JoinTime": 1701910914
+            },
+            {
+                "UserID": 89801902,
+                "PermissionLevel": 50,
+                "JoinTime": 1702334448
+            },
+            {
+                "UserID": 1222715146,
+                "PermissionLevel": 90,
+                "JoinTime": 1702392584
+            },
+            {
+                "UserID": 1174987199,
+                "PermissionLevel": 50,
+                "JoinTime": 1702396864
+            },
+            {
+                "UserID": 5296712384,
+                "PermissionLevel": 50,
+                "JoinTime": 1702925453
+            },
+            {
+                "UserID": 2670676461,
+                "PermissionLevel": 50,
+                "JoinTime": 1703246785
+            },
+            {
+                "UserID": 3493083549,
+                "PermissionLevel": 50,
+                "JoinTime": 1703701524
+            },
+            {
+                "UserID": 3999168482,
+                "PermissionLevel": 50,
+                "JoinTime": 1703777072
+            },
+            {
+                "UserID": 374660619,
+                "PermissionLevel": 50,
+                "JoinTime": 1704207750
+            },
+            {
+                "UserID": 312722556,
+                "PermissionLevel": 50,
+                "JoinTime": 1704209196
+            },
+            {
+                "UserID": 754204540,
+                "PermissionLevel": 50,
+                "JoinTime": 1704209344
+            },
+            {
+                "UserID": 120440306,
+                "PermissionLevel": 50,
+                "JoinTime": 1704210204
+            },
+            {
+                "UserID": 1427163086,
+                "PermissionLevel": 50,
+                "JoinTime": 1704210292
+            },
+            {
+                "UserID": 62204297,
+                "PermissionLevel": 50,
+                "JoinTime": 1704210869
+            },
+            {
+                "UserID": 269850047,
+                "PermissionLevel": 50,
+                "JoinTime": 1706376619
+            },
+            {
+                "UserID": 2925788376,
+                "PermissionLevel": 50,
+                "JoinTime": 1706461406
+            },
+            {
+                "UserID": 313662474,
+                "PermissionLevel": 50,
+                "JoinTime": 1707599507
+            },
+            {
+                "UserID": 658617771,
+                "PermissionLevel": 50,
+                "JoinTime": 1707698915
+            },
+            {
+                "UserID": 884769148,
+                "PermissionLevel": 50,
+                "JoinTime": 1708097661
+            },
+            {
+                "UserID": 3097905964,
+                "PermissionLevel": 50,
+                "JoinTime": 1708106419
+            },
+            {
+                "UserID": 191814004,
+                "PermissionLevel": 50,
+                "JoinTime": 1708110317
+            },
+            {
+                "UserID": 4565281210,
+                "PermissionLevel": 50,
+                "JoinTime": 1708117365
+            },
+            {
+                "UserID": 2052599873,
+                "PermissionLevel": 50,
+                "JoinTime": 1708124345
+            },
+            {
+                "UserID": 454137635,
+                "PermissionLevel": 50,
+                "JoinTime": 1708124874
+            },
+            {
+                "UserID": 1728967105,
+                "PermissionLevel": 50,
+                "JoinTime": 1708186678
+            },
+            {
+                "UserID": 4338411269,
+                "PermissionLevel": 50,
+                "JoinTime": 1708188306
+            },
+            {
+                "UserID": 4807882577,
+                "PermissionLevel": 50,
+                "JoinTime": 1708205217
+            },
+            {
+                "UserID": 1009734159,
+                "PermissionLevel": 50,
+                "JoinTime": 1708207985
+            },
+            {
+                "UserID": 646309560,
+                "PermissionLevel": 50,
+                "JoinTime": 1708208166
+            },
+            {
+                "UserID": 381544031,
+                "PermissionLevel": 50,
+                "JoinTime": 1708211507
+            },
+            {
+                "UserID": 2321950298,
+                "PermissionLevel": 50,
+                "JoinTime": 1708215797
+            },
+            {
+                "UserID": 392153783,
+                "PermissionLevel": 50,
+                "JoinTime": 1708277194
+            },
+            {
+                "UserID": 106762421,
+                "PermissionLevel": 50,
+                "JoinTime": 1708283517
+            },
+            {
+                "UserID": 1919881225,
+                "PermissionLevel": 50,
+                "JoinTime": 1708290553
+            },
+            {
+                "UserID": 726334997,
+                "PermissionLevel": 50,
+                "JoinTime": 1708299036
+            },
+            {
+                "UserID": 632293591,
+                "PermissionLevel": 50,
+                "JoinTime": 1708304027
+            },
+            {
+                "UserID": 3750649615,
+                "PermissionLevel": 50,
+                "JoinTime": 1708350508
+            },
+            {
+                "UserID": 288529436,
+                "PermissionLevel": 50,
+                "JoinTime": 1708359084
+            },
+            {
+                "UserID": 3398977821,
+                "PermissionLevel": 50,
+                "JoinTime": 1708363467
+            },
+            {
+                "UserID": 707123432,
+                "PermissionLevel": 50,
+                "JoinTime": 1708371315
+            },
+            {
+                "UserID": 993522790,
+                "PermissionLevel": 50,
+                "JoinTime": 1708380126
+            },
+            {
+                "UserID": 487189111,
+                "PermissionLevel": 50,
+                "JoinTime": 1708448690
+            },
+            {
+                "UserID": 5234109812,
+                "PermissionLevel": 50,
+                "JoinTime": 1708448715
+            },
+            {
+                "UserID": 3192591524,
+                "PermissionLevel": 50,
+                "JoinTime": 1708450191
+            },
+            {
+                "UserID": 876087163,
+                "PermissionLevel": 50,
+                "JoinTime": 1708455858
+            },
+            {
+                "UserID": 199749303,
+                "PermissionLevel": 50,
+                "JoinTime": 1708456039
+            },
+            {
+                "UserID": 466646554,
+                "PermissionLevel": 50,
+                "JoinTime": 1708457575
+            },
+            {
+                "UserID": 1114288501,
+                "PermissionLevel": 50,
+                "JoinTime": 1708458937
+            },
+            {
+                "UserID": 220511594,
+                "PermissionLevel": 50,
+                "JoinTime": 1708460411
+            },
+            {
+                "UserID": 190792835,
+                "PermissionLevel": 50,
+                "JoinTime": 1708461577
+            },
+            {
+                "UserID": 134543763,
+                "PermissionLevel": 50,
+                "JoinTime": 1708462332
+            },
+            {
+                "UserID": 2397588804,
+                "PermissionLevel": 50,
+                "JoinTime": 1708468098
+            },
+            {
+                "UserID": 2353480118,
+                "PermissionLevel": 50,
+                "JoinTime": 1708469057
+            },
+            {
+                "UserID": 370931324,
+                "PermissionLevel": 50,
+                "JoinTime": 1708525921
+            },
+            {
+                "UserID": 1894050380,
+                "PermissionLevel": 50,
+                "JoinTime": 1708530684
+            },
+            {
+                "UserID": 534265117,
+                "PermissionLevel": 50,
+                "JoinTime": 1708538987
+            },
+            {
+                "UserID": 963438446,
+                "PermissionLevel": 50,
+                "JoinTime": 1708625281
+            },
+            {
+                "UserID": 1160736242,
+                "PermissionLevel": 50,
+                "JoinTime": 1708633623
+            },
+            {
+                "UserID": 3963104589,
+                "PermissionLevel": 50,
+                "JoinTime": 1708636990
+            },
+            {
+                "UserID": 3805936559,
+                "PermissionLevel": 50,
+                "JoinTime": 1708637178
+            },
+            {
+                "UserID": 3046460750,
+                "PermissionLevel": 50,
+                "JoinTime": 1708646793
+            },
+            {
+                "UserID": 2739196314,
+                "PermissionLevel": 50,
+                "JoinTime": 1708876302
+            },
+            {
+                "UserID": 5149375806,
+                "PermissionLevel": 50,
+                "JoinTime": 1708881957
+            },
+            {
+                "UserID": 2030051926,
+                "PermissionLevel": 50,
+                "JoinTime": 1709234572
+            },
+            {
+                "UserID": 588043657,
+                "PermissionLevel": 50,
+                "JoinTime": 1709320079
+            },
+            {
+                "UserID": 463660886,
+                "PermissionLevel": 50,
+                "JoinTime": 1709663201
+            },
+            {
+                "UserID": 2670232789,
+                "PermissionLevel": 50,
+                "JoinTime": 1709914081
+            },
+            {
+                "UserID": 244859591,
+                "PermissionLevel": 50,
+                "JoinTime": 1710010413
+            },
+            {
+                "UserID": 159606232,
+                "PermissionLevel": 50,
+                "JoinTime": 1710102891
+            }
+        ],
+        "DepositedDiamonds": 322691836,
+        "DiamondContributions": {
+            "AllTime": {
+                "Sum": 520754336,
+                "Data": [
+                    {
+                        "UserID": 33857531,
+                        "Diamonds": 102074064
+                    },
+                    {
+                        "UserID": 935795903,
+                        "Diamonds": 69000
+                    },
+                    {
+                        "UserID": 904145523,
+                        "Diamonds": 69000
+                    },
+                    {
+                        "UserID": 534546962,
+                        "Diamonds": 158927
+                    },
+                    {
+                        "UserID": 112607291,
+                        "Diamonds": 19850000
+                    },
+                    {
+                        "UserID": 1645407091,
+                        "Diamonds": 1450000
+                    },
+                    {
+                        "UserID": 3137748939,
+                        "Diamonds": 1705999
+                    },
+                    {
+                        "UserID": 2063281875,
+                        "Diamonds": 1164231
+                    },
+                    {
+                        "UserID": 1235163226,
+                        "Diamonds": 4491000
+                    },
+                    {
+                        "UserID": 263971981,
+                        "Diamonds": 3525000
+                    },
+                    {
+                        "UserID": 681391204,
+                        "Diamonds": 75000
+                    },
+                    {
+                        "UserID": 3467544929,
+                        "Diamonds": 4910000
+                    },
+                    {
+                        "UserID": 894799577,
+                        "Diamonds": 2241000
+                    },
+                    {
+                        "UserID": 141045134,
+                        "Diamonds": 205000
+                    },
+                    {
+                        "UserID": 47316640,
+                        "Diamonds": 14500000
+                    },
+                    {
+                        "UserID": 1645933197,
+                        "Diamonds": 5607000
+                    },
+                    {
+                        "UserID": 963955013,
+                        "Diamonds": 275000
+                    },
+                    {
+                        "UserID": 4418762873,
+                        "Diamonds": 7400000
+                    },
+                    {
+                        "UserID": 5178043730,
+                        "Diamonds": 5330000
+                    },
+                    {
+                        "UserID": 401139363,
+                        "Diamonds": 4600000
+                    },
+                    {
+                        "UserID": 342299585,
+                        "Diamonds": 2553000
+                    },
+                    {
+                        "UserID": 2387429949,
+                        "Diamonds": 500000
+                    },
+                    {
+                        "UserID": 89801902,
+                        "Diamonds": 16050000
+                    },
+                    {
+                        "UserID": 471869920,
+                        "Diamonds": 2500000
+                    },
+                    {
+                        "UserID": 4218985803,
+                        "Diamonds": 500000
+                    },
+                    {
+                        "UserID": 2244427718,
+                        "Diamonds": 3520000
+                    },
+                    {
+                        "UserID": 2748057517,
+                        "Diamonds": 56000
+                    },
+                    {
+                        "UserID": 734898337,
+                        "Diamonds": 1000000
+                    },
+                    {
+                        "UserID": 1052055452,
+                        "Diamonds": 3000000
+                    },
+                    {
+                        "UserID": 1222715146,
+                        "Diamonds": 13400000
+                    },
+                    {
+                        "UserID": 2670676461,
+                        "Diamonds": 3160000
+                    },
+                    {
+                        "UserID": 1174987199,
+                        "Diamonds": 3119052
+                    },
+                    {
+                        "UserID": 721174120,
+                        "Diamonds": 1000000
+                    },
+                    {
+                        "UserID": 111840377,
+                        "Diamonds": 250000
+                    },
+                    {
+                        "UserID": 119958736,
+                        "Diamonds": 250000
+                    },
+                    {
+                        "UserID": 152556552,
+                        "Diamonds": 750000
+                    },
+                    {
+                        "UserID": 658617771,
+                        "Diamonds": 8015555
+                    },
+                    {
+                        "UserID": 272427695,
+                        "Diamonds": 1050000
+                    },
+                    {
+                        "UserID": 2681557580,
+                        "Diamonds": 300000
+                    },
+                    {
+                        "UserID": 5296712384,
+                        "Diamonds": 4000000
+                    },
+                    {
+                        "UserID": 2739196314,
+                        "Diamonds": 2300000
+                    },
+                    {
+                        "UserID": 486289724,
+                        "Diamonds": 2100000
+                    },
+                    {
+                        "UserID": 3145825344,
+                        "Diamonds": 3500000
+                    },
+                    {
+                        "UserID": 1639749308,
+                        "Diamonds": 1350000
+                    },
+                    {
+                        "UserID": 2508049701,
+                        "Diamonds": 1350000
+                    },
+                    {
+                        "UserID": 4533752560,
+                        "Diamonds": 2450000
+                    },
+                    {
+                        "UserID": 1050493292,
+                        "Diamonds": 1670000
+                    },
+                    {
+                        "UserID": 1454979858,
+                        "Diamonds": 1350000
+                    },
+                    {
+                        "UserID": 3493083549,
+                        "Diamonds": 27000000
+                    },
+                    {
+                        "UserID": 971212197,
+                        "Diamonds": 1600000
+                    },
+                    {
+                        "UserID": 839213936,
+                        "Diamonds": 4250000
+                    },
+                    {
+                        "UserID": 3999168482,
+                        "Diamonds": 5500000
+                    },
+                    {
+                        "UserID": 548382807,
+                        "Diamonds": 2100000
+                    },
+                    {
+                        "UserID": 2575988555,
+                        "Diamonds": 1400000
+                    },
+                    {
+                        "UserID": 531029524,
+                        "Diamonds": 250000
+                    },
+                    {
+                        "UserID": 518710094,
+                        "Diamonds": 2100000
+                    },
+                    {
+                        "UserID": 2562292402,
+                        "Diamonds": 260000
+                    },
+                    {
+                        "UserID": 377467990,
+                        "Diamonds": 1850000
+                    },
+                    {
+                        "UserID": 374660619,
+                        "Diamonds": 32100000
+                    },
+                    {
+                        "UserID": 1523937175,
+                        "Diamonds": 2600069
+                    },
+                    {
+                        "UserID": 312722556,
+                        "Diamonds": 27051000
+                    },
+                    {
+                        "UserID": 5340881519,
+                        "Diamonds": 2100000
+                    },
+                    {
+                        "UserID": 754204540,
+                        "Diamonds": 7000000
+                    },
+                    {
+                        "UserID": 120440306,
+                        "Diamonds": 4650000
+                    },
+                    {
+                        "UserID": 1427163086,
+                        "Diamonds": 42500000
+                    },
+                    {
+                        "UserID": 62204297,
+                        "Diamonds": 2350000
+                    },
+                    {
+                        "UserID": 1946339426,
+                        "Diamonds": 2150000
+                    },
+                    {
+                        "UserID": 46422561,
+                        "Diamonds": 800000
+                    },
+                    {
+                        "UserID": 269850047,
+                        "Diamonds": 3000000
+                    },
+                    {
+                        "UserID": 2925788376,
+                        "Diamonds": 2300000
+                    },
+                    {
+                        "UserID": 1022634227,
+                        "Diamonds": 1800000
+                    },
+                    {
+                        "UserID": 313662474,
+                        "Diamonds": 1300000
+                    },
+                    {
+                        "UserID": 884769148,
+                        "Diamonds": 100000
+                    },
+                    {
+                        "UserID": 3097905964,
+                        "Diamonds": 710000
+                    },
+                    {
+                        "UserID": 191814004,
+                        "Diamonds": 500000
+                    },
+                    {
+                        "UserID": 365287571,
+                        "Diamonds": 500000
+                    },
+                    {
+                        "UserID": 4338411269,
+                        "Diamonds": 350000
+                    },
+                    {
+                        "UserID": 4807882577,
+                        "Diamonds": 25000000
+                    },
+                    {
+                        "UserID": 1009734159,
+                        "Diamonds": 1400000
+                    },
+                    {
+                        "UserID": 381544031,
+                        "Diamonds": 12000000
+                    },
+                    {
+                        "UserID": 2321950298,
+                        "Diamonds": 1100000
+                    },
+                    {
+                        "UserID": 871849757,
+                        "Diamonds": 6130000
+                    },
+                    {
+                        "UserID": 726334997,
+                        "Diamonds": 5200000
+                    },
+                    {
+                        "UserID": 632293591,
+                        "Diamonds": 1500000
+                    },
+                    {
+                        "UserID": 1919881225,
+                        "Diamonds": 100000
+                    },
+                    {
+                        "UserID": 3398977821,
+                        "Diamonds": 1010000
+                    },
+                    {
+                        "UserID": 4203616387,
+                        "Diamonds": 140000
+                    },
+                    {
+                        "UserID": 707123432,
+                        "Diamonds": 680000
+                    },
+                    {
+                        "UserID": 199749303,
+                        "Diamonds": 150000
+                    },
+                    {
+                        "UserID": 466646554,
+                        "Diamonds": 1000000
+                    },
+                    {
+                        "UserID": 370931324,
+                        "Diamonds": 2000000
+                    },
+                    {
+                        "UserID": 534265117,
+                        "Diamonds": 2000000
+                    },
+                    {
+                        "UserID": 1114288501,
+                        "Diamonds": 12632019
+                    },
+                    {
+                        "UserID": 286620056,
+                        "Diamonds": 100000
+                    },
+                    {
+                        "UserID": 963438446,
+                        "Diamonds": 1500000
+                    },
+                    {
+                        "UserID": 1370153808,
+                        "Diamonds": 80000
+                    },
+                    {
+                        "UserID": 1160736242,
+                        "Diamonds": 69420
+                    },
+                    {
+                        "UserID": 3963104589,
+                        "Diamonds": 1600000
+                    },
+                    {
+                        "UserID": 876087163,
+                        "Diamonds": 1069000
+                    },
+                    {
+                        "UserID": 2353480118,
+                        "Diamonds": 200000
+                    },
+                    {
+                        "UserID": 392153783,
+                        "Diamonds": 200000
+                    },
+                    {
+                        "UserID": 134543763,
+                        "Diamonds": 69000
+                    },
+                    {
+                        "UserID": 993522790,
+                        "Diamonds": 200000
+                    },
+                    {
+                        "UserID": 2030051926,
+                        "Diamonds": 100000
+                    },
+                    {
+                        "UserID": 463660886,
+                        "Diamonds": 100000
+                    },
+                    {
+                        "UserID": 288529436,
+                        "Diamonds": 10000
+                    },
+                    {
+                        "UserID": 2670232789,
+                        "Diamonds": 400000
+                    },
+                    {
+                        "UserID": 244859591,
+                        "Diamonds": 100000
+                    },
+                    {
+                        "UserID": 190792835,
+                        "Diamonds": 1000000
+                    },
+                    {
+                        "UserID": 4565281210,
+                        "Diamonds": 1000000
+                    }
+                ]
+            }
+        },
+        "Battles": {
+            "Christmas2023": {
+                "ProcessedAwards": false,
+                "AwardUserIDs": [],
+                "BattleID": "Christmas2023",
+                "Points": 408520,
+                "PointContributions": [
+                    {
+                        "UserID": 2063281875,
+                        "Points": 8886
+                    },
+                    {
+                        "UserID": 47316640,
+                        "Points": 36024
+                    },
+                    {
+                        "UserID": 2387429949,
+                        "Points": 884
+                    },
+                    {
+                        "UserID": 4418762873,
+                        "Points": 41520
+                    },
+                    {
+                        "UserID": 263971981,
+                        "Points": 10237
+                    },
+                    {
+                        "UserID": 4218985803,
+                        "Points": 42
+                    },
+                    {
+                        "UserID": 152556552,
+                        "Points": 451
+                    },
+                    {
+                        "UserID": 3467544929,
+                        "Points": 2917
+                    },
+                    {
+                        "UserID": 721174120,
+                        "Points": 1948
+                    },
+                    {
+                        "UserID": 1174987199,
+                        "Points": 26351
+                    },
+                    {
+                        "UserID": 963955013,
+                        "Points": 204
+                    },
+                    {
+                        "UserID": 1222715146,
+                        "Points": 22959
+                    },
+                    {
+                        "UserID": 3137748939,
+                        "Points": 4529
+                    },
+                    {
+                        "UserID": 401139363,
+                        "Points": 5989
+                    },
+                    {
+                        "UserID": 33857531,
+                        "Points": 35044
+                    },
+                    {
+                        "UserID": 89801902,
+                        "Points": 13220
+                    },
+                    {
+                        "UserID": 2670676461,
+                        "Points": 19558
+                    },
+                    {
+                        "UserID": 112607291,
+                        "Points": 94350
+                    },
+                    {
+                        "UserID": 111840377,
+                        "Points": 850
+                    },
+                    {
+                        "UserID": 141045134,
+                        "Points": 1
+                    },
+                    {
+                        "UserID": 2681557580,
+                        "Points": 882
+                    },
+                    {
+                        "UserID": 5296712384,
+                        "Points": 22203
+                    },
+                    {
+                        "UserID": 531029524,
+                        "Points": 1700
+                    },
+                    {
+                        "UserID": 1645933197,
+                        "Points": 1700
+                    },
+                    {
+                        "UserID": 1050493292,
+                        "Points": 1732
+                    },
+                    {
+                        "UserID": 272427695,
+                        "Points": 1700
+                    },
+                    {
+                        "UserID": 3493083549,
+                        "Points": 2550
+                    }
+                ]
+            },
+            "DecemberActiveHugePets": {
+                "ProcessedAwards": false,
+                "AwardUserIDs": [],
+                "BattleID": "DecemberActiveHugePets",
+                "Points": 21,
+                "PointContributions": [
+                    {
+                        "UserID": 4418762873,
+                        "Points": 4
+                    },
+                    {
+                        "UserID": 374660619,
+                        "Points": 2
+                    },
+                    {
+                        "UserID": 1427163086,
+                        "Points": 3
+                    },
+                    {
+                        "UserID": 3467544929,
+                        "Points": 2
+                    },
+                    {
+                        "UserID": 312722556,
+                        "Points": 7
+                    },
+                    {
+                        "UserID": 3493083549,
+                        "Points": 1
+                    },
+                    {
+                        "UserID": 3999168482,
+                        "Points": 1
+                    }
+                ]
+            },
+            "IndexBattle": {
+                "ProcessedAwards": false,
+                "AwardUserIDs": [],
+                "BattleID": "IndexBattle",
+                "Points": 39676,
+                "PointContributions": [
+                    {
+                        "UserID": 312722556,
+                        "Points": 1970
+                    },
+                    {
+                        "UserID": 1174987199,
+                        "Points": 1274
+                    },
+                    {
+                        "UserID": 62204297,
+                        "Points": 1609
+                    },
+                    {
+                        "UserID": 47316640,
+                        "Points": 2002
+                    },
+                    {
+                        "UserID": 754204540,
+                        "Points": 2144
+                    },
+                    {
+                        "UserID": 112607291,
+                        "Points": 1201
+                    },
+                    {
+                        "UserID": 33857531,
+                        "Points": 2014
+                    },
+                    {
+                        "UserID": 1645933197,
+                        "Points": 1221
+                    },
+                    {
+                        "UserID": 374660619,
+                        "Points": 1347
+                    },
+                    {
+                        "UserID": 3493083549,
+                        "Points": 1635
+                    },
+                    {
+                        "UserID": 1427163086,
+                        "Points": 2016
+                    },
+                    {
+                        "UserID": 3999168482,
+                        "Points": 1488
+                    },
+                    {
+                        "UserID": 89801902,
+                        "Points": 1205
+                    },
+                    {
+                        "UserID": 5296712384,
+                        "Points": 1247
+                    },
+                    {
+                        "UserID": 3467544929,
+                        "Points": 1491
+                    },
+                    {
+                        "UserID": 401139363,
+                        "Points": 1203
+                    },
+                    {
+                        "UserID": 1222715146,
+                        "Points": 2023
+                    },
+                    {
+                        "UserID": 2670676461,
+                        "Points": 1208
+                    },
+                    {
+                        "UserID": 120440306,
+                        "Points": 1336
+                    },
+                    {
+                        "UserID": 269850047,
+                        "Points": 1240
+                    },
+                    {
+                        "UserID": 2925788376,
+                        "Points": 1517
+                    },
+                    {
+                        "UserID": 263971981,
+                        "Points": 1208
+                    }
+                ]
+            },
+            "AchBattle": {
+                "ProcessedAwards": false,
+                "AwardUserIDs": [],
+                "BattleID": "AchBattle",
+                "Points": 3638,
+                "PointContributions": [
+                    {
+                        "UserID": 3493083549,
+                        "Points": 54
+                    },
+                    {
+                        "UserID": 2670676461,
+                        "Points": 64
+                    },
+                    {
+                        "UserID": 269850047,
+                        "Points": 46
+                    },
+                    {
+                        "UserID": 5296712384,
+                        "Points": 55
+                    },
+                    {
+                        "UserID": 3999168482,
+                        "Points": 51
+                    },
+                    {
+                        "UserID": 754204540,
+                        "Points": 62
+                    },
+                    {
+                        "UserID": 33857531,
+                        "Points": 58
+                    },
+                    {
+                        "UserID": 312722556,
+                        "Points": 61
+                    },
+                    {
+                        "UserID": 1427163086,
+                        "Points": 59
+                    },
+                    {
+                        "UserID": 2925788376,
+                        "Points": 63
+                    },
+                    {
+                        "UserID": 401139363,
+                        "Points": 40
+                    },
+                    {
+                        "UserID": 3467544929,
+                        "Points": 59
+                    },
+                    {
+                        "UserID": 47316640,
+                        "Points": 47
+                    },
+                    {
+                        "UserID": 1645933197,
+                        "Points": 50
+                    },
+                    {
+                        "UserID": 313662474,
+                        "Points": 40
+                    },
+                    {
+                        "UserID": 1174987199,
+                        "Points": 50
+                    },
+                    {
+                        "UserID": 120440306,
+                        "Points": 46
+                    },
+                    {
+                        "UserID": 263971981,
+                        "Points": 45
+                    },
+                    {
+                        "UserID": 1222715146,
+                        "Points": 57
+                    },
+                    {
+                        "UserID": 374660619,
+                        "Points": 50
+                    },
+                    {
+                        "UserID": 89801902,
+                        "Points": 47
+                    },
+                    {
+                        "UserID": 62204297,
+                        "Points": 47
+                    },
+                    {
+                        "UserID": 112607291,
+                        "Points": 54
+                    },
+                    {
+                        "UserID": 658617771,
+                        "Points": 45
+                    },
+                    {
+                        "UserID": 884769148,
+                        "Points": 41
+                    },
+                    {
+                        "UserID": 3097905964,
+                        "Points": 44
+                    },
+                    {
+                        "UserID": 191814004,
+                        "Points": 61
+                    },
+                    {
+                        "UserID": 4565281210,
+                        "Points": 48
+                    },
+                    {
+                        "UserID": 2052599873,
+                        "Points": 44
+                    },
+                    {
+                        "UserID": 454137635,
+                        "Points": 43
+                    },
+                    {
+                        "UserID": 1728967105,
+                        "Points": 41
+                    },
+                    {
+                        "UserID": 4338411269,
+                        "Points": 49
+                    },
+                    {
+                        "UserID": 4807882577,
+                        "Points": 62
+                    },
+                    {
+                        "UserID": 646309560,
+                        "Points": 43
+                    },
+                    {
+                        "UserID": 1009734159,
+                        "Points": 47
+                    },
+                    {
+                        "UserID": 381544031,
+                        "Points": 49
+                    },
+                    {
+                        "UserID": 2321950298,
+                        "Points": 40
+                    },
+                    {
+                        "UserID": 106762421,
+                        "Points": 48
+                    },
+                    {
+                        "UserID": 392153783,
+                        "Points": 42
+                    },
+                    {
+                        "UserID": 726334997,
+                        "Points": 41
+                    },
+                    {
+                        "UserID": 632293591,
+                        "Points": 59
+                    },
+                    {
+                        "UserID": 3750649615,
+                        "Points": 42
+                    },
+                    {
+                        "UserID": 288529436,
+                        "Points": 46
+                    },
+                    {
+                        "UserID": 3398977821,
+                        "Points": 44
+                    },
+                    {
+                        "UserID": 707123432,
+                        "Points": 47
+                    },
+                    {
+                        "UserID": 993522790,
+                        "Points": 41
+                    },
+                    {
+                        "UserID": 1919881225,
+                        "Points": 42
+                    },
+                    {
+                        "UserID": 5234109812,
+                        "Points": 44
+                    },
+                    {
+                        "UserID": 199749303,
+                        "Points": 43
+                    },
+                    {
+                        "UserID": 876087163,
+                        "Points": 54
+                    },
+                    {
+                        "UserID": 466646554,
+                        "Points": 43
+                    },
+                    {
+                        "UserID": 1114288501,
+                        "Points": 46
+                    },
+                    {
+                        "UserID": 220511594,
+                        "Points": 53
+                    },
+                    {
+                        "UserID": 190792835,
+                        "Points": 49
+                    },
+                    {
+                        "UserID": 134543763,
+                        "Points": 49
+                    },
+                    {
+                        "UserID": 2353480118,
+                        "Points": 49
+                    },
+                    {
+                        "UserID": 2397588804,
+                        "Points": 43
+                    },
+                    {
+                        "UserID": 534265117,
+                        "Points": 43
+                    },
+                    {
+                        "UserID": 370931324,
+                        "Points": 42
+                    },
+                    {
+                        "UserID": 487189111,
+                        "Points": 45
+                    },
+                    {
+                        "UserID": 3192591524,
+                        "Points": 46
+                    },
+                    {
+                        "UserID": 963438446,
+                        "Points": 50
+                    },
+                    {
+                        "UserID": 1160736242,
+                        "Points": 42
+                    },
+                    {
+                        "UserID": 3805936559,
+                        "Points": 46
+                    },
+                    {
+                        "UserID": 3046460750,
+                        "Points": 47
+                    },
+                    {
+                        "UserID": 3963104589,
+                        "Points": 61
+                    },
+                    {
+                        "UserID": 1894050380,
+                        "Points": 42
+                    }
+                ]
+            },
+            "RaidBattle": {
+                "ProcessedAwards": true,
+                "AwardUserIDs": [
+                    33857531,
+                    112607291,
+                    263971981,
+                    3467544929,
+                    47316640,
+                    1645933197,
+                    401139363,
+                    89801902,
+                    1222715146,
+                    1174987199,
+                    5296712384,
+                    2670676461,
+                    3493083549,
+                    3999168482,
+                    374660619,
+                    312722556,
+                    754204540,
+                    120440306,
+                    1427163086,
+                    62204297,
+                    269850047,
+                    2925788376,
+                    313662474,
+                    658617771,
+                    884769148,
+                    3097905964,
+                    191814004,
+                    4565281210,
+                    2052599873,
+                    454137635,
+                    1728967105,
+                    4338411269,
+                    4807882577,
+                    1009734159,
+                    646309560,
+                    381544031,
+                    2321950298,
+                    392153783,
+                    106762421,
+                    1919881225,
+                    726334997,
+                    632293591,
+                    3750649615,
+                    288529436,
+                    3398977821,
+                    707123432,
+                    993522790,
+                    487189111,
+                    5234109812,
+                    3192591524,
+                    876087163,
+                    199749303,
+                    466646554,
+                    1114288501,
+                    220511594,
+                    190792835,
+                    134543763,
+                    2397588804,
+                    2353480118,
+                    370931324,
+                    1894050380,
+                    534265117,
+                    963438446,
+                    1160736242,
+                    3963104589,
+                    3805936559,
+                    3046460750,
+                    2739196314,
+                    5149375806,
+                    2030051926,
+                    588043657,
+                    463660886,
+                    2670232789,
+                    244859591,
+                    159606232
+                ],
+                "BattleID": "RaidBattle",
+                "Points": 52001,
+                "PointContributions": [
+                    {
+                        "UserID": 1222715146,
+                        "Points": 1750
+                    },
+                    {
+                        "UserID": 5234109812,
+                        "Points": 704
+                    },
+                    {
+                        "UserID": 381544031,
+                        "Points": 319
+                    },
+                    {
+                        "UserID": 89801902,
+                        "Points": 765
+                    },
+                    {
+                        "UserID": 2397588804,
+                        "Points": 632
+                    },
+                    {
+                        "UserID": 2052599873,
+                        "Points": 253
+                    },
+                    {
+                        "UserID": 1160736242,
+                        "Points": 466
+                    },
+                    {
+                        "UserID": 993522790,
+                        "Points": 329
+                    },
+                    {
+                        "UserID": 263971981,
+                        "Points": 497
+                    },
+                    {
+                        "UserID": 3097905964,
+                        "Points": 716
+                    },
+                    {
+                        "UserID": 374660619,
+                        "Points": 237
+                    },
+                    {
+                        "UserID": 754204540,
+                        "Points": 613
+                    },
+                    {
+                        "UserID": 288529436,
+                        "Points": 1534
+                    },
+                    {
+                        "UserID": 1427163086,
+                        "Points": 766
+                    },
+                    {
+                        "UserID": 2353480118,
+                        "Points": 1035
+                    },
+                    {
+                        "UserID": 47316640,
+                        "Points": 832
+                    },
+                    {
+                        "UserID": 1919881225,
+                        "Points": 545
+                    },
+                    {
+                        "UserID": 487189111,
+                        "Points": 256
+                    },
+                    {
+                        "UserID": 220511594,
+                        "Points": 861
+                    },
+                    {
+                        "UserID": 3963104589,
+                        "Points": 1451
+                    },
+                    {
+                        "UserID": 3805936559,
+                        "Points": 1135
+                    },
+                    {
+                        "UserID": 370931324,
+                        "Points": 1297
+                    },
+                    {
+                        "UserID": 312722556,
+                        "Points": 1132
+                    },
+                    {
+                        "UserID": 3467544929,
+                        "Points": 1986
+                    },
+                    {
+                        "UserID": 963438446,
+                        "Points": 730
+                    },
+                    {
+                        "UserID": 33857531,
+                        "Points": 1466
+                    },
+                    {
+                        "UserID": 2925788376,
+                        "Points": 1569
+                    },
+                    {
+                        "UserID": 726334997,
+                        "Points": 714
+                    },
+                    {
+                        "UserID": 4565281210,
+                        "Points": 1289
+                    },
+                    {
+                        "UserID": 632293591,
+                        "Points": 788
+                    },
+                    {
+                        "UserID": 884769148,
+                        "Points": 308
+                    },
+                    {
+                        "UserID": 112607291,
+                        "Points": 1496
+                    },
+                    {
+                        "UserID": 3999168482,
+                        "Points": 646
+                    },
+                    {
+                        "UserID": 191814004,
+                        "Points": 926
+                    },
+                    {
+                        "UserID": 4807882577,
+                        "Points": 1370
+                    },
+                    {
+                        "UserID": 1174987199,
+                        "Points": 1351
+                    },
+                    {
+                        "UserID": 1728967105,
+                        "Points": 422
+                    },
+                    {
+                        "UserID": 3750649615,
+                        "Points": 232
+                    },
+                    {
+                        "UserID": 466646554,
+                        "Points": 714
+                    },
+                    {
+                        "UserID": 62204297,
+                        "Points": 585
+                    },
+                    {
+                        "UserID": 313662474,
+                        "Points": 393
+                    },
+                    {
+                        "UserID": 876087163,
+                        "Points": 867
+                    },
+                    {
+                        "UserID": 454137635,
+                        "Points": 675
+                    },
+                    {
+                        "UserID": 199749303,
+                        "Points": 374
+                    },
+                    {
+                        "UserID": 3192591524,
+                        "Points": 217
+                    },
+                    {
+                        "UserID": 190792835,
+                        "Points": 897
+                    },
+                    {
+                        "UserID": 646309560,
+                        "Points": 307
+                    },
+                    {
+                        "UserID": 1009734159,
+                        "Points": 762
+                    },
+                    {
+                        "UserID": 392153783,
+                        "Points": 207
+                    },
+                    {
+                        "UserID": 134543763,
+                        "Points": 482
+                    },
+                    {
+                        "UserID": 5296712384,
+                        "Points": 1368
+                    },
+                    {
+                        "UserID": 2321950298,
+                        "Points": 264
+                    },
+                    {
+                        "UserID": 2739196314,
+                        "Points": 583
+                    },
+                    {
+                        "UserID": 3493083549,
+                        "Points": 1794
+                    },
+                    {
+                        "UserID": 5149375806,
+                        "Points": 574
+                    },
+                    {
+                        "UserID": 2670676461,
+                        "Points": 1073
+                    },
+                    {
+                        "UserID": 4338411269,
+                        "Points": 524
+                    },
+                    {
+                        "UserID": 534265117,
+                        "Points": 452
+                    },
+                    {
+                        "UserID": 707123432,
+                        "Points": 459
+                    },
+                    {
+                        "UserID": 269850047,
+                        "Points": 541
+                    },
+                    {
+                        "UserID": 658617771,
+                        "Points": 352
+                    },
+                    {
+                        "UserID": 1645933197,
+                        "Points": 272
+                    },
+                    {
+                        "UserID": 3046460750,
+                        "Points": 302
+                    },
+                    {
+                        "UserID": 3398977821,
+                        "Points": 213
+                    },
+                    {
+                        "UserID": 401139363,
+                        "Points": 185
+                    },
+                    {
+                        "UserID": 1894050380,
+                        "Points": 297
+                    },
+                    {
+                        "UserID": 106762421,
+                        "Points": 411
+                    },
+                    {
+                        "UserID": 120440306,
+                        "Points": 190
+                    },
+                    {
+                        "UserID": 2030051926,
+                        "Points": 146
+                    },
+                    {
+                        "UserID": 588043657,
+                        "Points": 239
+                    },
+                    {
+                        "UserID": 1114288501,
+                        "Points": 510
+                    },
+                    {
+                        "UserID": 463660886,
+                        "Points": 762
+                    },
+                    {
+                        "UserID": 2670232789,
+                        "Points": 205
+                    },
+                    {
+                        "UserID": 244859591,
+                        "Points": 113
+                    },
+                    {
+                        "UserID": 159606232,
+                        "Points": 274
+                    }
+                ],
+                "EarnedMedal": "Bronze"
+            }
+        },
+        "CountryCode": "BE",
+        "Status": "GG on winning the battle of pure torture! (Yippie!)",
+        "StatusTimestamp": 1710534312,
+        "StatusUsername": "Isotropy47",
+        "LastKickTimestamp": 1710094785,
+        "BronzeMedals": 1
+    }
+}

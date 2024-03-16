@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "data": [
+        {
+            "configName": "Christmas2023",
+            "category": "GuildBattles",
+            "configData": {
+                "FinishTime": 1703869200,
+                "Title": "Festive Clan Battle",
+                "StartTime": 1702746000,
+                "Rewards": {
+                    "Bronze": [
+                        {
+                            "_data": {
+                                "id": "Present"
+                            }
+                        }
+                    ],
+                    "Silver": [
+                        {
+                            "_data": {
+                                "id": "Red Present"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        }
+                    ],
+                    "Gold": [
+                        {
+                            "_data": {
+                                "id": "Huge Present Cat"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        }
+                    ]
+                }
+            },
+            "collection": "GuildBattles"
+        },
+        {
+            "configName": "DecemberActiveHugePets",
+            "category": "GuildBattles",
+            "configData": {
+                "FinishTime": 1705683600,
+                "Title": "New Year's Clan Battle",
+                "StartTime": 1703955600,
+                "Rewards": {
+                    "Bronze": [
+                        {
+                            "_data": {
+                                "id": "Cupcake"
+                            }
+                        }
+                    ],
+                    "Silver": [
+                        {
+                            "_data": {
+                                "id": "Blobfish"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        }
+                    ],
+                    "Gold": [
+                        {
+                            "_data": {
+                                "id": "Huge Owl"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 18"
+                            }
+                        }
+                    ]
+                }
+            },
+            "collection": "GuildBattles"
+        },
+        {
+            "configName": "IndexBattle",
+            "category": "GuildBattles",
+            "configData": {
+                "FinishTime": 1707498000,
+                "Title": "Pet Collection Battle",
+                "StartTime": 1705770000,
+                "Rewards": {
+                    "Bronze": [
+                        {
+                            "_data": {
+                                "id": "M10"
+                            }
+                        }
+                    ],
+                    "Silver": [
+                        {
+                            "_data": {
+                                "id": "Pegasus"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        }
+                    ],
+                    "Gold": [
+                        {
+                            "_data": {
+                                "id": "Huge Sensei Penguin"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 20"
+                            }
+                        }
+                    ]
+                }
+            },
+            "collection": "GuildBattles"
+        },
+        {
+            "configName": "AchBattle",
+            "category": "GuildBattles",
+            "configData": {
+                "FinishTime": 1708707600,
+                "Title": "Achievements Battle",
+                "StartTime": 1707584400,
+                "Rewards": {
+                    "Bronze": [
+                        {
+                            "_data": {
+                                "id": "Empyrean"
+                            }
+                        }
+                    ],
+                    "Silver": [
+                        {
+                            "_data": {
+                                "id": "Ducky"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        }
+                    ],
+                    "Gold": [
+                        {
+                            "_data": {
+                                "id": "Huge Empyrean Axolotl"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 21"
+                            }
+                        }
+                    ]
+                }
+            },
+            "collection": "GuildBattles"
+        },
+        {
+            "configName": "RaidBattle",
+            "category": "GuildBattles",
+            "configData": {
+                "FinishTime": 1710522000,
+                "Title": "Raid Battle",
+                "StartTime": 1708794000,
+                "Rewards": {
+                    "Bronze": [
+                        {
+                            "_data": {
+                                "id": "Galaxy"
+                            }
+                        }
+                    ],
+                    "Silver": [
+                        {
+                            "_data": {
+                                "id": "Cosmic"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        }
+                    ],
+                    "Gold": [
+                        {
+                            "_data": {
+                                "id": "Huge Mystical Fox"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        },
+                        {
+                            "_data": {
+                                "id": "Exclusive Egg 22"
+                            }
+                        }
+                    ]
+                }
+            },
+            "collection": "GuildBattles"
+        }
+    ]
+}
